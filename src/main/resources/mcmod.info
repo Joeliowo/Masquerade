@@ -1,0 +1,16 @@
+[
+{
+  "modid": "masq",
+  "name": "Masquerade",
+  "description": "Envelop yourself in the delicious gifts of Witchcraft!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Joel"],
+  "credits": "The Jerver Discord, Pezzottaite, Rhodonite, Jody Anders, Rylan and various others of my friends for support with the mod!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
